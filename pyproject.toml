@@ -1,0 +1,13 @@
+[project]
+name = "sava"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "boto3>=1.39.4",
+    "pandas>=2.3.1",
+    "psycopg2>=2.9.10",
+    "pytest>=8.4.1",
+    "sqlalchemy>=2.0.41",
+]
