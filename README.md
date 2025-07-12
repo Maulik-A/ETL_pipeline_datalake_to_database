@@ -31,3 +31,12 @@ uv run --env-file=.env main.py
 ![screenshot](assets/aws_arc.png)
 
 for more details visit: https://github.com/Maulik-A/energy-data-pipeline
+
+## Security
+![screenshot](assets/aws_security.png)
+
+## CI/CD
+Please visit: https://github.com/Maulik-A/cicd-setup
+
+## Automated deployment
+Please visit: https://github.com/Maulik-A/terraform_aws_infra
