@@ -40,3 +40,6 @@ Please visit: https://github.com/Maulik-A/cicd-setup
 
 ## Automated deployment
 Please visit: https://github.com/Maulik-A/terraform_aws_infra
+
+## Streaming data analytics and visualisation
+![screenshot](assets/azure-databricks-streaming-analytics-architecture.svg)
